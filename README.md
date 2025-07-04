@@ -1,4 +1,5 @@
-![1682126727593.jpg](attachment:6e83fd7a-84f9-42ee-94f3-8ab5d4d37f28.jpg)
+![airbnb_newyork](https://github.com/user-attachments/assets/72b13231-3777-416b-a7da-09b1654436dd)
+
 # <font size='8px'><font color='#FF3206'>**Project Name**    - <font color='#3792cb'>Airbnb Bookings Analysis
 ##### <font size='5px'>**Project Type**    - **Exploratory Data Analysis**
 # **Project Summary -**
